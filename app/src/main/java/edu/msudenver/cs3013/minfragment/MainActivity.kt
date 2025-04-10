@@ -1,3 +1,6 @@
+// RJ Sam
+// MinFragment Homework
+// CS 3013
 package edu.msudenver.cs3013.minfragment
 
 import android.os.Bundle
